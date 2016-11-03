@@ -1,5 +1,5 @@
 package = "lua-resty-postgres"
-version = "v1.0-0"
+version = "1.0-0"
 source = {
    url = "git://github.com/paragasu/lua-resty-postgres.git",
    tag = "v1.0-0"
